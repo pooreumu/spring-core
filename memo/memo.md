@@ -1,0 +1,5 @@
+- 자바 11 버전을 사용하려면 스프링 부트 2.X로 만들어야 한다.
+  - 스프링 부트 3.X는 자바 17 버전이어야 한다.
+  - 안그럼 빌드 실패한다.
+- intellij preferences에서 gradle 검색해서 build and run using, run tests using intellij로 바꾸자
+  - 속도가 빠르다
